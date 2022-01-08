@@ -22,4 +22,4 @@ Also, filtering the video titles which contain Python:
 ## Conclusions
 * An issue which I faced was, although the freeCodeCamp youtube channel has 1424 videos, at some point it did not provide the nextPageToken, so it extracted only 420 records.
 * The most popular videos released are from 2018, mainly the videos from July with more than 7 millions views. The recent videos (2021) are not as popular as the other ones, which may be people are not feeling interested in the content of those videos and/or opt to watch for another source.
-* Regarding Python and considering only the subjects: Data Analysis, Data Science, Machine Learning, Deep Learning and Computer Vision, the most popular content from freeCodeCamp Youtube channel are videos with Data Science as a subject/topic in their title.
+* Regarding Python and considering only the subjects: Data Analysis, Data Science, Machine Learning, Deep Learning and Computer Vision, the most popular content from freeCodeCamp Youtube channel are videos with Data Science as a subject/topic in their titles.
