@@ -1,7 +1,7 @@
-# Colecting Data from Youtube API
+# Extracting Data from Youtube API
 
 ## Project Overview
-- Working with real data using Youtube's API to collect video statistics from a channel (in this case from freeCodeCamp).
+- Working with real data using Youtube API to collect video statistics from a channel (in this case from freeCodeCamp).
 - Using the library requests to make the API calls and parsing the data through the JSON response.
 - Storing and updating the data fetched into a PostgreSQL Database.
 - Cleaning, filtering and visualizing the data. Access the full Python code **[here](https://github.com/ThiPauli/Fetch_Data_Youtube_API/blob/main/extracting_data_youtube_api_freecodecamp.ipynb)**.
