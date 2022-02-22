@@ -1,4 +1,4 @@
-# Extracting Data from Youtube API
+# Extracting Data using Youtube API
 
 ## Project Overview
 - Working with real data using Youtube API to collect video statistics from a channel (in this case from freeCodeCamp).
